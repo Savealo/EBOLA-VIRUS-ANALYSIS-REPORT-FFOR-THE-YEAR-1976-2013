@@ -225,7 +225,7 @@ DATA VISUALIZATIONS & CHARTS
 COUNTRY BY NUMBER OF EBOLA SUBTYPES
 
 ![image](https://github.com/user-attachments/assets/2380541b-c3c3-42d4-a8fe-42184f303093)
-![image](https://github.com/user-attachments/assets/2380541b-c3c3-42d4-a8fe-42184f303093)
+
 
 Gabon has the highest diversity of Ebola virus subtypes, with 4 different subtypes reported, indicating its critical role in understanding Ebola virus ecology and mutation patterns.
 
@@ -241,7 +241,7 @@ The variation in subtype presence across countries points to differing levels of
 REPORTED NUMBER OF DEATHS AMONG CASES BY COUNTRY
 
 ![image](https://github.com/user-attachments/assets/1d9341b4-45f6-4825-a73a-aae67003accb)
-![image](https://github.com/user-attachments/assets/1d9341b4-45f6-4825-a73a-aae67003accb)
+
 
 The Democratic Republic of the Congo (DRC) reports the highest number of deaths at 465, emphasizing its central role in the historical impact of Ebola.
 
@@ -258,7 +258,7 @@ The DRC and surrounding Central African countries bear the heaviest mortality bu
 REPORTED NUMBER OF DEATHS AMONG CASES BY COUNTRY
 
 ![image](https://github.com/user-attachments/assets/26be0cae-79ca-4846-997e-51097d4c2fb4)
-![image](https://github.com/user-attachments/assets/26be0cae-79ca-4846-997e-51097d4c2fb4)
+
 
 Democratic Republic of the Congo (DRC) leads with the highest number of reported Ebola-related deaths (465), indicating it was the most severely impacted country during the 1976–2013 period.
 
@@ -274,3 +274,241 @@ Insight:
 The analysis reveals a concentration of Ebola-related deaths in Central and East Africa, pointing to a geographic hotspot for outbreaks. These high fatality numbers emphasize the need for strengthened healthcare systems, rapid response capacity, and sustained research in the most affected countries.
 
 COUNTRY AND EBOLA SUBTYPE
+![image](https://github.com/user-attachments/assets/af056cb9-f77f-46c9-9f01-4a5f4c61eec0)
+
+
+Global Distribution Pattern:
+
+Africa dominates with multiple Ebola subtypes present (purple/colored regions)
+
+Primary concentration appears in Central and West Africa
+
+Other continents show minimal to no endemic presence
+
+Subtype Diversity:
+
+Legend shows multiple distinct Ebola subtypes: Bundibugyo, Reston, Sudan, Tai Forest, and others
+
+Africa hosts the greatest subtype diversity, indicating likely evolutionary origin
+
+Different regions appear to harbor different predominant subtypes
+
+Geographic Risk Zones:
+
+Central Africa (Democratic Republic of Congo region) shows high subtype concentration
+
+West Africa also demonstrates significant presence
+
+East Africa appears to have some presence (Sudan subtype correlation)
+
+Critical Insights
+
+Epidemiological Significance:
+
+The geographic clustering suggests environmental and ecological factors drive Ebola emergence
+
+Tropical forest regions appear most affected, aligning with known animal reservoir habitats
+
+Limited global spread indicates natural barriers to transmission outside endemic zones.
+
+REPORTED NUMBER OF HUMAN CASES AND DEATHS BY YEAR(S)
+
+![image](https://github.com/user-attachments/assets/27ea1270-a2ca-4580-8258-5b10f2c847da)
+
+
+Key Trends
+
+Historical Pattern:
+
+2000–2003: Highest total cases (~700) — major outbreak period
+
+1976–1979: Second highest (~500) — includes first documented outbreak
+
+Steady decline through 1980s-1990s to lowest levels
+
+Recent uptick in 2011–2013 period
+
+Case-Fatality Dynamics:
+
+Deaths (dark purple) represent significant portion of total cases across all periods
+
+Consistently high mortality rate visible across decades
+
+2000–2003 outbreak shows both highest cases AND deaths
+
+Critical Insights
+
+Outbreak Cyclicity:
+
+Not a linear progression — shows episodic outbreak pattern
+
+Quiet periods (1980s-1990s) followed by major resurgences
+
+Suggests environmental or ecological triggers for periodic emergence
+
+Mortality Impact:
+
+High case-fatality ratio maintained across all time periods
+
+Deaths track closely with cases — indicating consistent lethality
+
+No apparent improvement in survival rates over decades
+
+Surveillance Implications:
+
+2000s represented peak surveillance period — likely better detection/reporting
+
+1999–1992 low numbers may reflect under-reporting rather than true absence
+
+Recent 2011–2013 increase suggests ongoing transmission risk
+
+Public Health Significance
+
+Pattern Recognition:
+
+~20-year cycles between major outbreak periods
+
+2014–2016 West Africa epidemic (not shown) would represent next major cycle
+
+Preparedness must account for periodic resurgence
+
+Bottom Line: Ebola demonstrates cyclical outbreak patterns with consistently high mortality across decades. The 2000s spike likely reflects both actual increased transmission and improved surveillance, while recent increases signal ongoing endemic risk requiring sustained vigilance.
+
+REPORTED NUMBER OF HUMAN CASSES BY CIUNTRY
+
+![image](https://github.com/user-attachments/assets/450b3dd0-7229-4bf2-a954-40fe53c4375c)
+
+
+Dominant Outbreak Locations:
+
+Democratic Republic of Congo (DRC): 647 cases — overwhelming majority (~60% of total)
+Uganda: 592 cases — second highest burden
+Combined DRC + Uganda: Account for ~85% of all reported cases
+Secondary Affected Countries:
+
+Sudan (South): 335 cases — significant but lower impact
+Zaire: 318 cases (likely historical DRC designation)
+Republic of the Congo: 255 cases — neighboring country effect
+Minimal Impact Regions:
+
+Philippines: Only 9 cases — likely imported/isolated cases
+Gabon: Appears to have minimal representation
+Geographic Insights
+
+Central Africa Concentration:
+
+DRC emerges as epicenter of Ebola emergence globally
+Great Lakes region (DRC-Uganda border) shows highest concentration
+Regional clustering suggests shared ecological/environmental factors
+Spillover Patterns:
+
+Cross-border transmission evident between DRC-Uganda
+Sudan’s position indicates northward spread potential
+Philippines cases likely represent research/laboratory exposure (Reston strain)
+Critical Implications
+
+Hotspot Identification:
+
+DRC requires most intensive surveillance and preparedness resources
+Uganda-DRC border represents highest-risk transmission corridor
+Regional approach needed given cross-border patterns
+Resource Allocation:
+
+60% of prevention efforts should focus on DRC
+Regional coordination essential for Central African countries
+International support should prioritize these endemic nations
+Bottom Line: Ebola is overwhelmingly a Central African disease with DRC as the primary epicenter. The concentration of cases in DRC-Uganda region suggests shared ecological reservoirs and highlights the need for intensive regional surveillance and cross-border health security coordination.
+
+FINAL DASHBOARD
+
+![image](https://github.com/user-attachments/assets/c990621e-bae5-432a-9a5d-e2ecd8b868c0)
+
+
+The final dashboard highlights the combined correlations and relationship between the individual charts with the help of slicers.
+
+OBSERVATIONS AND ACTIONABLE RECOMENDATIONS
+
+KEY OBSERVATIONS
+
+1.High Lethality of Ebola
+
+With 2,361 reported cases and 1,548 deaths, Ebola had an average fatality rate of ~65.6%.
+
+This underscores Ebola as one of the most lethal infectious diseases in recent history.
+
+2. Zaire Subtype Dominance
+
+The Zaire virus subtype alone accounts for ~70% of total deaths, indicating it is the most virulent strain. It also has the widest geographic footprint, appearing in multiple countries.
+
+3. Geographic Concentration
+
+15 countries were affected, with the majority of outbreaks occurring in Central and Western Africa, particularly:
+
+DR Congo (most deaths and cases)
+
+Uganda, Republic of the Congo, and South Sudan
+
+4. Temporal Patterns of Outbreaks
+
+Major outbreaks clustered between 1976–2003, with a visible decrease in activity in the 2010s.
+
+Periods of reduced activity could represent underreporting, not just control success.
+
+5. Subtype Diversity
+
+Countries like Gabon encountered 4 different Ebola subtypes, increasing their vulnerability to complex outbreaks.
+
+6. Uneven Impact Across Countries
+
+Some countries reported high case numbers but fewer deaths, indicating variations in healthcare response, virus
+
+virulence, or reporting accuracy.
+
+STRETEGIC RECOMMENDATIONS
+
+1. Prioritize Zaire Subtype in R&D
+
+Focus vaccine development, diagnostics, and treatment efforts on the Zaire virus, given its dominant role in fatalities.
+
+2. Strengthen Health Infrastructure in Hotspot Countries
+
+Invest in healthcare preparedness, especially in: DR Congo, Uganda, South Sudan, Republic of the Congo
+
+Build rapid response units, improve hospital capacity, and ensure medical supply chains are robust.
+
+3. Expand Regional and Cross-Border Surveillance
+
+Implement real-time outbreak monitoring and alert systems, especially in regions with multiple subtypes (e.g., Gabon).
+
+Encourage cross-border health collaboration to manage outbreaks early and contain spread.
+
+4. Promote Subtype-Specific Diagnostics
+
+Develop and deploy rapid tests that can distinguish between Ebola subtypes, helping tailor medical responses.
+
+5. Improve Data Collection and Reporting
+
+Standardize data reporting across all countries to ensure consistency in:
+
+Case counts
+
+Deaths
+
+Recovery outcomes
+
+6. Educational & Public Awareness Campaigns
+
+Launch culturally appropriate health education initiatives in endemic regions to improve:
+
+Early reporting of symptoms
+
+Adoption of safe burial and caregiving practices
+
+7. Routine Retrospective Analyses
+
+Conduct regular reviews of past outbreaks to identify:
+
+Patterns in response effectiveness
+
+Gaps in international aid or medical interventions.
+
